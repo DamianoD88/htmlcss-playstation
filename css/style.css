@@ -13,3 +13,9 @@
 .logo-sony {
     height: 30%;
 }
+
+.box {
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+}
