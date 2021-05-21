@@ -11,8 +11,16 @@
 }
 
 .logo-sony {
-    height: 30%;
+    width: 75px;
 }
+
+.jumbotron {
+    padding: 250px 0 50px 0;
+    background-image: url(../img/img/jumbo-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+
 
 .box {
     width: 200px;
