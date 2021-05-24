@@ -56,6 +56,31 @@
 
 /* accessori play 5 */
 
+.img-down-accessori {
+    background-size: cover;
+    border-radius: 20px;
+}
+
+
+.box-accessori {
+    width: 200px;
+    height: 150px;
+    background-size: auto;
+    position: relative;
+}
+
+.accessori-play5 {
+    filter: grayscale(100%);
+}
+
+.accessori-play5:hover {
+    cursor: pointer;
+    filter: none;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #4d9cdc;
+
+}
+
 /* end accessori play 5 */
 .it-take-two {
     padding: 250px 0 50px 0;
