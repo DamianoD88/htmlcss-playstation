@@ -82,6 +82,8 @@
 }
 
 /* end accessori play 5 */
+
+/* novità */
 .it-take-two {
     padding: 250px 0 50px 0;
     background-image: url(../img/img/it-takes-two-hero-banner-desktop.jpg);
@@ -90,7 +92,13 @@
 
 }
 
+.novità-giochi {
+    filter: none;
+    border: none;
+    cursor: pointer;
+}
 
+/* end novità */
 
 .bg-avengers {
     background-color: #161c3b;
