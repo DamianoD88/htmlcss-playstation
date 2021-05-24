@@ -1,13 +1,17 @@
 * {
     margin: 0;
     padding: 0;
-    border
+    box-sizing: border-box;
 }
 
 
 .header-up {
     height: 50px;
     background-color: black;
+}
+
+.navbar {
+    color: black;
 }
 
 .logo-sony {
@@ -33,10 +37,16 @@
 }
 
 
-.box {
+.box-jumbo {
     width: 200px;
     height: 150px;
-    background-color: yellow;
+    background-size: auto;
+    border-radius: 50px;
+}
+
+.img-down-jumbo {
+    background-size: cover;
+    border-radius: 50px;
 }
 
 .bg-footer {
